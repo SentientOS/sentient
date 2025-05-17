@@ -1,0 +1,1001 @@
+text,label
+Sensitive data exfiltration detected,THREAT
+Boot completed successfully,SAFE
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Background task finished,SAFE
+Unusual CPU usage: 70%,WARNING
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+Repeated login failure from 203.0.113.12,WARNING
+Screen turned off,SAFE
+User system logged in via SSH,SAFE
+System update installed,SAFE
+Battery level at 95%,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+System update installed,SAFE
+Background task finished,SAFE
+Unusual CPU usage: 95%,WARNING
+Background task finished,SAFE
+Sensitive data exfiltration detected,THREAT
+Log rotation completed,SAFE
+App com.android.settings escalated privileges,THREAT
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+Background task finished,SAFE
+Boot completed successfully,SAFE
+Possible DoS pattern detected,WARNING
+Repeated login failure from 192.168.0.1,WARNING
+App com.bad.actor behaving abnormally,WARNING
+Screen turned off,SAFE
+Background task finished,SAFE
+User alice logged in via ADB,SAFE
+Root access granted to john,THREAT
+Time synchronized with NTP server,SAFE
+App com.android.settings started,SAFE
+Repeated login failure from 192.168.0.1,WARNING
+User system logged in via ADB,SAFE
+Screen turned off,SAFE
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+High network latency: 300ms,WARNING
+App com.bad.actor started,SAFE
+Background task finished,SAFE
+System update installed,SAFE
+Battery level at 20%,SAFE
+Repeated login failure from 172.16.42.1,WARNING
+Privileged command executed without confirmation,THREAT
+App com.bad.actor behaving abnormally,WARNING
+System update installed,SAFE
+Boot completed successfully,SAFE
+High network latency: 300ms,WARNING
+Time synchronized with NTP server,SAFE
+System update installed,SAFE
+Possible DoS pattern detected,WARNING
+Battery level at 20%,SAFE
+Boot completed successfully,SAFE
+App com.android.settings escalated privileges,THREAT
+Boot completed successfully,SAFE
+Log rotation completed,SAFE
+Screen turned off,SAFE
+Boot completed successfully,SAFE
+App com.android.settings started,SAFE
+Boot completed successfully,SAFE
+App com.security.monitor started,SAFE
+User john logged in via terminal,SAFE
+App com.bad.actor started,SAFE
+Background task finished,SAFE
+User root attempted to disable security,THREAT
+Root access granted to system,THREAT
+Background task finished,SAFE
+Boot completed successfully,SAFE
+Unusual CPU usage: 90%,WARNING
+Time synchronized with NTP server,SAFE
+User alice logged in via graphical,SAFE
+User root logged in via terminal,SAFE
+Battery level at 20%,SAFE
+App com.system.update behaving abnormally,WARNING
+High network latency: 1500ms,WARNING
+App com.security.monitor started,SAFE
+Background task finished,SAFE
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+Kernel panic occurred at 17:29:12,THREAT
+High network latency: 500ms,WARNING
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Malicious app installed: com.android.settings,THREAT
+Privileged command executed without confirmation,THREAT
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+User alice logged in via graphical,SAFE
+System update installed,SAFE
+Log rotation completed,SAFE
+Possible DoS pattern detected,WARNING
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+App com.tool.exploit started,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+User alice logged in via terminal,SAFE
+Screen turned off,SAFE
+System update installed,SAFE
+Background task finished,SAFE
+Privileged command executed without confirmation,THREAT
+System update installed,SAFE
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+Disk I/O threshold exceeded,WARNING
+Battery level at 75%,SAFE
+App com.security.monitor started,SAFE
+Screen turned off,SAFE
+User system logged in via console,SAFE
+Battery level at 50%,SAFE
+Boot completed successfully,SAFE
+Device connected to Wi-Fi network,SAFE
+Boot completed successfully,SAFE
+App com.security.monitor started,SAFE
+Root access granted to admin,THREAT
+System update installed,SAFE
+App com.system.update behaving abnormally,WARNING
+Boot completed successfully,SAFE
+User john logged in via graphical,SAFE
+Screen turned off,SAFE
+Repeated login failure from 172.16.42.1,WARNING
+Background task finished,SAFE
+Filesystem usage high: 20%,WARNING
+Screen turned off,SAFE
+User alice logged in via terminal,SAFE
+App com.system.update started,SAFE
+App com.tool.exploit started,SAFE
+Boot completed successfully,SAFE
+Background task finished,SAFE
+Boot completed successfully,SAFE
+App com.security.monitor started,SAFE
+Background task finished,SAFE
+App com.android.settings behaving abnormally,WARNING
+Service WifiManager not responding,WARNING
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+Boot completed successfully,SAFE
+Filesystem usage high: 25%,WARNING
+App com.security.monitor started,SAFE
+Boot completed successfully,SAFE
+Screen turned off,SAFE
+User root logged in via graphical,SAFE
+Unusual CPU usage: 80%,WARNING
+Repeated login failure from 10.0.0.5,WARNING
+System update installed,SAFE
+Possible DoS pattern detected,WARNING
+Filesystem usage high: 90%,WARNING
+Background task finished,SAFE
+Possible DoS pattern detected,WARNING
+Time synchronized with NTP server,SAFE
+System update installed,SAFE
+Boot completed successfully,SAFE
+System update installed,SAFE
+Privileged command executed without confirmation,THREAT
+User system logged in via graphical,SAFE
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+Time synchronized with NTP server,SAFE
+Sensitive data exfiltration detected,THREAT
+User john logged in via console,SAFE
+Time synchronized with NTP server,SAFE
+User alice logged in via graphical,SAFE
+Device connected to Wi-Fi network,SAFE
+Log rotation completed,SAFE
+Device connected to Wi-Fi network,SAFE
+Root access granted to system,THREAT
+Boot completed successfully,SAFE
+Background task finished,SAFE
+User admin logged in via SSH,SAFE
+Log rotation completed,SAFE
+App com.system.update started,SAFE
+User admin logged in via terminal,SAFE
+Log rotation completed,SAFE
+Device connected to Wi-Fi network,SAFE
+App com.system.update started,SAFE
+System update installed,SAFE
+User admin logged in via terminal,SAFE
+App com.tool.exploit started,SAFE
+System update installed,SAFE
+Time synchronized with NTP server,SAFE
+User root logged in via console,SAFE
+Device Keyboard_USB disconnected unexpectedly,WARNING
+Boot completed successfully,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+Time synchronized with NTP server,SAFE
+App com.bad.actor behaving abnormally,WARNING
+Battery level at 95%,SAFE
+User admin logged in via terminal,SAFE
+Kernel panic occurred at 17:29:12,THREAT
+Malicious app installed: com.tool.exploit,THREAT
+Battery level low: 90%,WARNING
+App com.bad.actor started,SAFE
+Sensitive data exfiltration detected,THREAT
+Battery level at 15%,SAFE
+Battery level at 25%,SAFE
+Kernel panic occurred at 22:17:59,THREAT
+Time synchronized with NTP server,SAFE
+SELinux policy violation detected,THREAT
+Screen turned off,SAFE
+Log rotation completed,SAFE
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+SELinux policy violation detected,THREAT
+User john logged in via terminal,SAFE
+Service AudioDaemon not responding,WARNING
+Log rotation completed,SAFE
+System update installed,SAFE
+Battery level at 50%,SAFE
+System update installed,SAFE
+Screen turned off,SAFE
+Screen turned off,SAFE
+Boot completed successfully,SAFE
+Boot completed successfully,SAFE
+High network latency: 300ms,WARNING
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+Battery level at 15%,SAFE
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Device connected to Wi-Fi network,SAFE
+Battery level at 15%,SAFE
+App com.system.update started,SAFE
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+Battery level at 50%,SAFE
+System update installed,SAFE
+High network latency: 1500ms,WARNING
+Boot completed successfully,SAFE
+SELinux policy violation detected,THREAT
+App com.bad.actor started,SAFE
+System update installed,SAFE
+Battery level low: 20%,WARNING
+Device connected to Wi-Fi network,SAFE
+App com.bad.actor started,SAFE
+Battery level at 50%,SAFE
+Disk I/O threshold exceeded,WARNING
+Device connected to Wi-Fi network,SAFE
+Kernel panic occurred at 17:29:12,THREAT
+Time synchronized with NTP server,SAFE
+User alice logged in via console,SAFE
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+System update installed,SAFE
+Log rotation completed,SAFE
+Screen turned off,SAFE
+Boot completed successfully,SAFE
+Battery level at 15%,SAFE
+Battery level at 75%,SAFE
+Screen turned off,SAFE
+Repeated login failure from 172.16.42.1,WARNING
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Service LocationService not responding,WARNING
+Time synchronized with NTP server,SAFE
+Boot completed successfully,SAFE
+Service WifiManager not responding,WARNING
+Log rotation completed,SAFE
+Disk I/O threshold exceeded,WARNING
+User admin logged in via SSH,SAFE
+Background task finished,SAFE
+Root access granted to john,THREAT
+Time synchronized with NTP server,SAFE
+User admin attempted to disable security,THREAT
+Boot completed successfully,SAFE
+Background task finished,SAFE
+Background task finished,SAFE
+Device Keyboard_USB disconnected unexpectedly,WARNING
+Device connected to Wi-Fi network,SAFE
+Log rotation completed,SAFE
+User alice logged in via ADB,SAFE
+App com.android.settings behaving abnormally,WARNING
+App com.system.update started,SAFE
+High network latency: 1000ms,WARNING
+Screen turned off,SAFE
+High network latency: 300ms,WARNING
+Battery level low: 15%,WARNING
+App com.android.settings started,SAFE
+User alice logged in via terminal,SAFE
+Disk I/O threshold exceeded,WARNING
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+Device connected to Wi-Fi network,SAFE
+App com.system.update behaving abnormally,WARNING
+Time synchronized with NTP server,SAFE
+Time synchronized with NTP server,SAFE
+Root access granted to alice,THREAT
+Log rotation completed,SAFE
+Repeated login failure from 192.168.0.1,WARNING
+Boot completed successfully,SAFE
+Boot completed successfully,SAFE
+Background task finished,SAFE
+System update installed,SAFE
+User admin logged in via SSH,SAFE
+Background task finished,SAFE
+App com.bad.actor behaving abnormally,WARNING
+Unusual CPU usage: 70%,WARNING
+Boot completed successfully,SAFE
+Repeated login failure from 192.168.0.1,WARNING
+Background task finished,SAFE
+User system logged in via SSH,SAFE
+Battery level at 10%,SAFE
+Unauthorized access attempt from 10.0.0.5,THREAT
+System update installed,SAFE
+Unusual CPU usage: 95%,WARNING
+Screen turned off,SAFE
+System update installed,SAFE
+Battery level at 5%,SAFE
+Filesystem usage high: 25%,WARNING
+Screen turned off,SAFE
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+Unusual CPU usage: 100%,WARNING
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+App com.bad.actor started,SAFE
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+Background task finished,SAFE
+Battery level at 5%,SAFE
+App com.bad.actor escalated privileges,THREAT
+Disk I/O threshold exceeded,WARNING
+Background task finished,SAFE
+Filesystem usage high: 95%,WARNING
+Battery level at 10%,SAFE
+Battery level at 50%,SAFE
+Log rotation completed,SAFE
+Possible DoS pattern detected,WARNING
+Screen turned off,SAFE
+Log rotation completed,SAFE
+Unusual CPU usage: 70%,WARNING
+Repeated login failure from 10.0.0.5,WARNING
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+User alice attempted to disable security,THREAT
+Battery level at 90%,SAFE
+Battery level at 25%,SAFE
+Device connected to Wi-Fi network,SAFE
+Service AudioDaemon not responding,WARNING
+User alice logged in via SSH,SAFE
+Battery level at 90%,SAFE
+Filesystem usage high: 100%,WARNING
+Unauthorized access attempt from 192.168.0.1,THREAT
+App com.android.settings started,SAFE
+System update installed,SAFE
+Unusual CPU usage: 90%,WARNING
+Battery level at 90%,SAFE
+App com.system.update behaving abnormally,WARNING
+Battery level at 15%,SAFE
+Unusual CPU usage: 90%,WARNING
+System update installed,SAFE
+Boot completed successfully,SAFE
+High network latency: 300ms,WARNING
+App com.system.update behaving abnormally,WARNING
+Disk I/O threshold exceeded,WARNING
+Boot completed successfully,SAFE
+User root logged in via SSH,SAFE
+Screen turned off,SAFE
+Filesystem usage high: 10%,WARNING
+App com.system.update started,SAFE
+Malicious app installed: com.system.update,THREAT
+User admin logged in via terminal,SAFE
+Time synchronized with NTP server,SAFE
+Battery level at 90%,SAFE
+Possible DoS pattern detected,WARNING
+High network latency: 1000ms,WARNING
+Log rotation completed,SAFE
+User admin logged in via terminal,SAFE
+Privileged command executed without confirmation,THREAT
+System update installed,SAFE
+Battery level at 75%,SAFE
+Service AudioDaemon not responding,WARNING
+App com.android.settings started,SAFE
+Device connected to Wi-Fi network,SAFE
+Background task finished,SAFE
+Screen turned off,SAFE
+Log rotation completed,SAFE
+Battery level at 100%,SAFE
+User system logged in via graphical,SAFE
+Battery level at 5%,SAFE
+Screen turned off,SAFE
+Background task finished,SAFE
+Time synchronized with NTP server,SAFE
+Boot completed successfully,SAFE
+Boot completed successfully,SAFE
+Device connected to Wi-Fi network,SAFE
+High network latency: 1000ms,WARNING
+User john logged in via graphical,SAFE
+Device connected to Wi-Fi network,SAFE
+Boot completed successfully,SAFE
+Boot completed successfully,SAFE
+Log rotation completed,SAFE
+Screen turned off,SAFE
+User root logged in via graphical,SAFE
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+Boot completed successfully,SAFE
+Device connected to Wi-Fi network,SAFE
+User admin logged in via ADB,SAFE
+System update installed,SAFE
+Boot completed successfully,SAFE
+User alice logged in via ADB,SAFE
+User system logged in via terminal,SAFE
+App com.bad.actor started,SAFE
+Log rotation completed,SAFE
+User john logged in via terminal,SAFE
+App com.tool.exploit escalated privileges,THREAT
+Log rotation completed,SAFE
+Kernel panic occurred at 03:45:00,THREAT
+Privileged command executed without confirmation,THREAT
+Device USB001 disconnected unexpectedly,WARNING
+Device connected to Wi-Fi network,SAFE
+Kernel panic occurred at 03:45:00,THREAT
+Screen turned off,SAFE
+Filesystem usage high: 20%,WARNING
+Filesystem usage high: 25%,WARNING
+Repeated login failure from 172.16.42.1,WARNING
+Service AudioDaemon not responding,WARNING
+Log rotation completed,SAFE
+Sensitive data exfiltration detected,THREAT
+Boot completed successfully,SAFE
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+Background task finished,SAFE
+User john logged in via ADB,SAFE
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+System update installed,SAFE
+Battery level at 5%,SAFE
+Background task finished,SAFE
+Battery level at 10%,SAFE
+App com.android.settings behaving abnormally,WARNING
+Firewall rule modified by system,THREAT
+System update installed,SAFE
+Unusual CPU usage: 80%,WARNING
+Disk I/O threshold exceeded,WARNING
+Device connected to Wi-Fi network,SAFE
+System update installed,SAFE
+Background task finished,SAFE
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+Unusual CPU usage: 90%,WARNING
+User system logged in via SSH,SAFE
+Device connected to Wi-Fi network,SAFE
+Repeated login failure from 192.168.0.1,WARNING
+App com.bad.actor started,SAFE
+Screen turned off,SAFE
+Privileged command executed without confirmation,THREAT
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+Service LocationService not responding,WARNING
+Service LocationService not responding,WARNING
+Log rotation completed,SAFE
+Background task finished,SAFE
+Log rotation completed,SAFE
+SELinux policy violation detected,THREAT
+Device connected to Wi-Fi network,SAFE
+Device connected to Wi-Fi network,SAFE
+Time synchronized with NTP server,SAFE
+Battery level at 75%,SAFE
+Battery level at 15%,SAFE
+Disk I/O threshold exceeded,WARNING
+Unauthorized access attempt from 10.0.0.5,THREAT
+Log rotation completed,SAFE
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+Battery level low: 15%,WARNING
+Root access granted to john,THREAT
+Filesystem usage high: 15%,WARNING
+Service UpdateService not responding,WARNING
+Log rotation completed,SAFE
+Background task finished,SAFE
+Malicious app installed: com.tool.exploit,THREAT
+Battery level low: 25%,WARNING
+App com.system.update behaving abnormally,WARNING
+Battery level at 90%,SAFE
+Device connected to Wi-Fi network,SAFE
+Root access granted to system,THREAT
+Boot completed successfully,SAFE
+Battery level at 100%,SAFE
+Background task finished,SAFE
+Sensitive data exfiltration detected,THREAT
+Battery level at 90%,SAFE
+Log rotation completed,SAFE
+System update installed,SAFE
+Screen turned off,SAFE
+User admin logged in via ADB,SAFE
+Time synchronized with NTP server,SAFE
+Service LocationService not responding,WARNING
+Time synchronized with NTP server,SAFE
+App com.security.monitor started,SAFE
+App com.bad.actor started,SAFE
+Boot completed successfully,SAFE
+Screen turned off,SAFE
+User john attempted to disable security,THREAT
+App com.system.update escalated privileges,THREAT
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+User root logged in via console,SAFE
+Screen turned off,SAFE
+User john attempted to disable security,THREAT
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+Device connected to Wi-Fi network,SAFE
+User system logged in via graphical,SAFE
+Device connected to Wi-Fi network,SAFE
+Sensitive data exfiltration detected,THREAT
+Filesystem usage high: 5%,WARNING
+Battery level at 25%,SAFE
+Kernel panic occurred at 17:29:12,THREAT
+Device USB001 disconnected unexpectedly,WARNING
+Screen turned off,SAFE
+Background task finished,SAFE
+Battery level at 5%,SAFE
+Device connected to Wi-Fi network,SAFE
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+Battery level at 100%,SAFE
+Background task finished,SAFE
+System update installed,SAFE
+Background task finished,SAFE
+Filesystem usage high: 95%,WARNING
+App com.system.update behaving abnormally,WARNING
+Filesystem usage high: 50%,WARNING
+Time synchronized with NTP server,SAFE
+Disk I/O threshold exceeded,WARNING
+Sensitive data exfiltration detected,THREAT
+System update installed,SAFE
+Battery level at 100%,SAFE
+High network latency: 500ms,WARNING
+Background task finished,SAFE
+Log rotation completed,SAFE
+Filesystem usage high: 10%,WARNING
+Unusual CPU usage: 100%,WARNING
+Unusual CPU usage: 70%,WARNING
+High network latency: 300ms,WARNING
+Kernel panic occurred at 17:29:12,THREAT
+Battery level low: 10%,WARNING
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+System update installed,SAFE
+System update installed,SAFE
+Battery level low: 15%,WARNING
+User root logged in via terminal,SAFE
+App com.bad.actor started,SAFE
+Service WifiManager not responding,WARNING
+Repeated login failure from 203.0.113.12,WARNING
+User alice logged in via ADB,SAFE
+Malicious app installed: com.android.settings,THREAT
+Background task finished,SAFE
+Screen turned off,SAFE
+Malicious app installed: com.android.settings,THREAT
+Firewall rule modified by admin,THREAT
+Battery level at 15%,SAFE
+Device connected to Wi-Fi network,SAFE
+Time synchronized with NTP server,SAFE
+Boot completed successfully,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+Filesystem usage high: 50%,WARNING
+Device connected to Wi-Fi network,SAFE
+System update installed,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Root access granted to john,THREAT
+Filesystem usage high: 95%,WARNING
+Time synchronized with NTP server,SAFE
+Root access granted to alice,THREAT
+Time synchronized with NTP server,SAFE
+User system logged in via console,SAFE
+User root logged in via ADB,SAFE
+Device connected to Wi-Fi network,SAFE
+App com.bad.actor started,SAFE
+Background task finished,SAFE
+App com.tool.exploit started,SAFE
+App com.system.update started,SAFE
+Possible DoS pattern detected,WARNING
+Log rotation completed,SAFE
+Repeated login failure from 203.0.113.12,WARNING
+Screen turned off,SAFE
+High network latency: 1500ms,WARNING
+Log rotation completed,SAFE
+Filesystem usage high: 100%,WARNING
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+Filesystem usage high: 5%,WARNING
+App com.system.update behaving abnormally,WARNING
+App com.system.update started,SAFE
+Screen turned off,SAFE
+Battery level at 15%,SAFE
+Boot completed successfully,SAFE
+SELinux policy violation detected,THREAT
+Filesystem usage high: 90%,WARNING
+App com.security.monitor started,SAFE
+Log rotation completed,SAFE
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Battery level at 50%,SAFE
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Battery level at 25%,SAFE
+Device connected to Wi-Fi network,SAFE
+Service LocationService not responding,WARNING
+Possible DoS pattern detected,WARNING
+User john logged in via ADB,SAFE
+App com.bad.actor started,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Unusual CPU usage: 90%,WARNING
+System update installed,SAFE
+Sensitive data exfiltration detected,THREAT
+System update installed,SAFE
+Firewall rule modified by admin,THREAT
+Disk I/O threshold exceeded,WARNING
+Log rotation completed,SAFE
+Filesystem usage high: 95%,WARNING
+Time synchronized with NTP server,SAFE
+App com.android.settings started,SAFE
+Repeated login failure from 172.16.42.1,WARNING
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+App com.bad.actor started,SAFE
+Battery level at 10%,SAFE
+SELinux policy violation detected,THREAT
+Boot completed successfully,SAFE
+User alice logged in via console,SAFE
+Boot completed successfully,SAFE
+Screen turned off,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+User alice logged in via graphical,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+High network latency: 800ms,WARNING
+Log rotation completed,SAFE
+Device connected to Wi-Fi network,SAFE
+Background task finished,SAFE
+Boot completed successfully,SAFE
+Background task finished,SAFE
+Log rotation completed,SAFE
+Background task finished,SAFE
+Background task finished,SAFE
+Battery level at 5%,SAFE
+Battery level at 15%,SAFE
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+System update installed,SAFE
+System update installed,SAFE
+Time synchronized with NTP server,SAFE
+Time synchronized with NTP server,SAFE
+Boot completed successfully,SAFE
+Background task finished,SAFE
+Log rotation completed,SAFE
+App com.android.settings started,SAFE
+User alice logged in via terminal,SAFE
+Battery level at 95%,SAFE
+Battery level low: 5%,WARNING
+Battery level at 15%,SAFE
+Filesystem usage high: 50%,WARNING
+Filesystem usage high: 100%,WARNING
+User alice logged in via console,SAFE
+System update installed,SAFE
+User admin logged in via ADB,SAFE
+High network latency: 500ms,WARNING
+Background task finished,SAFE
+Boot completed successfully,SAFE
+Time synchronized with NTP server,SAFE
+Time synchronized with NTP server,SAFE
+Log rotation completed,SAFE
+Service UpdateService not responding,WARNING
+Repeated login failure from 10.0.0.5,WARNING
+Background task finished,SAFE
+Time synchronized with NTP server,SAFE
+Boot completed successfully,SAFE
+Disk I/O threshold exceeded,WARNING
+Unauthorized access attempt from 192.168.0.1,THREAT
+Possible DoS pattern detected,WARNING
+Privileged command executed without confirmation,THREAT
+Kernel panic occurred at 12:01:33,THREAT
+User alice attempted to disable security,THREAT
+Time synchronized with NTP server,SAFE
+High network latency: 800ms,WARNING
+Boot completed successfully,SAFE
+Filesystem usage high: 20%,WARNING
+Background task finished,SAFE
+Repeated login failure from 172.16.42.1,WARNING
+Time synchronized with NTP server,SAFE
+Background task finished,SAFE
+Battery level at 15%,SAFE
+System update installed,SAFE
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+System update installed,SAFE
+Log rotation completed,SAFE
+System update installed,SAFE
+App com.android.settings started,SAFE
+Device connected to Wi-Fi network,SAFE
+Unusual CPU usage: 95%,WARNING
+App com.bad.actor started,SAFE
+App com.tool.exploit escalated privileges,THREAT
+User system logged in via terminal,SAFE
+Malicious app installed: com.android.settings,THREAT
+High network latency: 1500ms,WARNING
+Background task finished,SAFE
+App com.security.monitor started,SAFE
+Background task finished,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Time synchronized with NTP server,SAFE
+System update installed,SAFE
+Unauthorized access attempt from 203.0.113.12,THREAT
+Boot completed successfully,SAFE
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+High network latency: 1500ms,WARNING
+Device connected to Wi-Fi network,SAFE
+Battery level at 100%,SAFE
+Time synchronized with NTP server,SAFE
+SELinux policy violation detected,THREAT
+App com.system.update started,SAFE
+High network latency: 800ms,WARNING
+User alice logged in via SSH,SAFE
+Malicious app installed: com.system.update,THREAT
+Time synchronized with NTP server,SAFE
+Root access granted to system,THREAT
+System update installed,SAFE
+Unauthorized access attempt from 172.16.42.1,THREAT
+SELinux policy violation detected,THREAT
+Device connected to Wi-Fi network,SAFE
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+Service AudioDaemon not responding,WARNING
+App com.system.update started,SAFE
+SELinux policy violation detected,THREAT
+User root logged in via console,SAFE
+High network latency: 1500ms,WARNING
+Device connected to Wi-Fi network,SAFE
+Log rotation completed,SAFE
+Repeated login failure from 192.168.0.1,WARNING
+Screen turned off,SAFE
+User john logged in via graphical,SAFE
+Kernel panic occurred at 22:17:59,THREAT
+System update installed,SAFE
+Time synchronized with NTP server,SAFE
+Device HID_USB_42 disconnected unexpectedly,WARNING
+Battery level at 10%,SAFE
+Battery level at 95%,SAFE
+Screen turned off,SAFE
+User system logged in via console,SAFE
+System update installed,SAFE
+Boot completed successfully,SAFE
+Background task finished,SAFE
+Log rotation completed,SAFE
+Screen turned off,SAFE
+Unauthorized access attempt from 10.0.0.5,THREAT
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+Battery level low: 5%,WARNING
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+User system attempted to disable security,THREAT
+Screen turned off,SAFE
+Disk I/O threshold exceeded,WARNING
+Background task finished,SAFE
+Sensitive data exfiltration detected,THREAT
+Battery level at 25%,SAFE
+Log rotation completed,SAFE
+Disk I/O threshold exceeded,WARNING
+Background task finished,SAFE
+Possible DoS pattern detected,WARNING
+Device connected to Wi-Fi network,SAFE
+Background task finished,SAFE
+Log rotation completed,SAFE
+Boot completed successfully,SAFE
+Log rotation completed,SAFE
+High network latency: 1000ms,WARNING
+Boot completed successfully,SAFE
+System update installed,SAFE
+Malicious app installed: com.bad.actor,THREAT
+Filesystem usage high: 15%,WARNING
+Service AudioDaemon not responding,WARNING
+Sensitive data exfiltration detected,THREAT
+Device connected to Wi-Fi network,SAFE
+Service UpdateService not responding,WARNING
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+System update installed,SAFE
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+App com.bad.actor behaving abnormally,WARNING
+Time synchronized with NTP server,SAFE
+Device Keyboard_USB disconnected unexpectedly,WARNING
+Background task finished,SAFE
+System update installed,SAFE
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Device connected to Wi-Fi network,SAFE
+App com.android.settings started,SAFE
+Battery level low: 20%,WARNING
+Battery level at 50%,SAFE
+System update installed,SAFE
+Background task finished,SAFE
+Battery level at 90%,SAFE
+Disk I/O threshold exceeded,WARNING
+User root logged in via SSH,SAFE
+Battery level at 95%,SAFE
+Service AudioDaemon not responding,WARNING
+Screen turned off,SAFE
+App com.tool.exploit started,SAFE
+Boot completed successfully,SAFE
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+Log rotation completed,SAFE
+Filesystem usage high: 10%,WARNING
+Time synchronized with NTP server,SAFE
+Battery level low: 75%,WARNING
+Screen turned off,SAFE
+Battery level low: 75%,WARNING
+Battery level at 15%,SAFE
+App com.tool.exploit started,SAFE
+Device connected to Wi-Fi network,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+Time synchronized with NTP server,SAFE
+Battery level at 15%,SAFE
+Battery level at 25%,SAFE
+Device connected to Wi-Fi network,SAFE
+Log rotation completed,SAFE
+User john attempted to disable security,THREAT
+Log rotation completed,SAFE
+App com.bad.actor escalated privileges,THREAT
+Battery level at 5%,SAFE
+Screen turned off,SAFE
+Privileged command executed without confirmation,THREAT
+App com.android.settings started,SAFE
+Firewall rule modified by system,THREAT
+High network latency: 1000ms,WARNING
+User system attempted to disable security,THREAT
+Background task finished,SAFE
+Battery level at 50%,SAFE
+Battery level low: 15%,WARNING
+App com.android.settings started,SAFE
+Time synchronized with NTP server,SAFE
+Screen turned off,SAFE
+Device connected to Wi-Fi network,SAFE
+Time synchronized with NTP server,SAFE
+User system logged in via console,SAFE
+Unusual CPU usage: 70%,WARNING
+System update installed,SAFE
+Service WifiManager not responding,WARNING
+Boot completed successfully,SAFE
+Device HID_USB_42 disconnected unexpectedly,WARNING
+Background task finished,SAFE
+Background task finished,SAFE
+Screen turned off,SAFE
+High network latency: 1000ms,WARNING
+Screen turned off,SAFE
+Possible DoS pattern detected,WARNING
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+App com.tool.exploit behaving abnormally,WARNING
+Background task finished,SAFE
+Possible DoS pattern detected,WARNING
+Unusual CPU usage: 80%,WARNING
+Boot completed successfully,SAFE
+Firewall rule modified by system,THREAT
+Time synchronized with NTP server,SAFE
+System update installed,SAFE
+Time synchronized with NTP server,SAFE
+Service WifiManager not responding,WARNING
+High network latency: 500ms,WARNING
+Malicious app installed: com.security.monitor,THREAT
+System update installed,SAFE
+Boot completed successfully,SAFE
+Disk I/O threshold exceeded,WARNING
+App com.tool.exploit started,SAFE
+Unauthorized access attempt from 192.168.0.1,THREAT
+System update installed,SAFE
+Log rotation completed,SAFE
+Background task finished,SAFE
+Time synchronized with NTP server,SAFE
+App com.tool.exploit started,SAFE
+Screen turned off,SAFE
+User admin logged in via SSH,SAFE
+User admin logged in via terminal,SAFE
+SELinux policy violation detected,THREAT
+Device Storage_USB_3 disconnected unexpectedly,WARNING
+System update installed,SAFE
+Battery level at 10%,SAFE
+Battery level at 25%,SAFE
+Background task finished,SAFE
+Battery level at 20%,SAFE
+System update installed,SAFE
+High network latency: 300ms,WARNING
+Time synchronized with NTP server,SAFE
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+Battery level at 10%,SAFE
+High network latency: 800ms,WARNING
+Root access granted to root,THREAT
+Screen turned off,SAFE
+Background task finished,SAFE
+Device connected to Wi-Fi network,SAFE
+Screen turned off,SAFE
+Background task finished,SAFE
+Screen turned off,SAFE
+Service UpdateService not responding,WARNING
+Unusual CPU usage: 80%,WARNING
+Screen turned off,SAFE
+System update installed,SAFE
+Device connected to Wi-Fi network,SAFE
+Firewall rule modified by john,THREAT
+Screen turned off,SAFE
+Background task finished,SAFE
+App com.security.monitor started,SAFE
+Disk I/O threshold exceeded,WARNING
+Device connected to Wi-Fi network,SAFE
+Device USB001 disconnected unexpectedly,WARNING
+Boot completed successfully,SAFE
+Battery level at 20%,SAFE
+Log rotation completed,SAFE
+System update installed,SAFE
+SELinux policy violation detected,THREAT
+Screen turned off,SAFE
+Possible DoS pattern detected,WARNING
+Device connected to Wi-Fi network,SAFE
+Root access granted to john,THREAT
+Boot completed successfully,SAFE
+App com.security.monitor escalated privileges,THREAT
+Screen turned off,SAFE
+App com.system.update behaving abnormally,WARNING
+App com.android.settings started,SAFE
+Battery level at 50%,SAFE
+User system attempted to disable security,THREAT
+System update installed,SAFE
+Service LocationService not responding,WARNING
+Time synchronized with NTP server,SAFE
+Time synchronized with NTP server,SAFE
+Device connected to Wi-Fi network,SAFE
+Time synchronized with NTP server,SAFE
+Battery level at 100%,SAFE
+Boot completed successfully,SAFE
+User admin logged in via terminal,SAFE
+High network latency: 1000ms,WARNING
+High network latency: 300ms,WARNING
+User john logged in via console,SAFE
+SELinux policy violation detected,THREAT
+Screen turned off,SAFE
+Filesystem usage high: 75%,WARNING
+Screen turned off,SAFE
+System update installed,SAFE
+Boot completed successfully,SAFE
+System update installed,SAFE
+Filesystem usage high: 50%,WARNING
+Possible DoS pattern detected,WARNING
+Time synchronized with NTP server,SAFE
+Privileged command executed without confirmation,THREAT
+User admin logged in via ADB,SAFE
+Battery level low: 15%,WARNING
+Firewall rule modified by admin,THREAT
+Battery level at 75%,SAFE
+Background task finished,SAFE
+Log rotation completed,SAFE
+Log rotation completed,SAFE
+Disk I/O threshold exceeded,WARNING
+Time synchronized with NTP server,SAFE
+Malicious app installed: com.tool.exploit,THREAT
+System update installed,SAFE
+System update installed,SAFE
+System update installed,SAFE
+Screen turned off,SAFE
+Screen turned off,SAFE
+System update installed,SAFE
+Time synchronized with NTP server,SAFE
+Disk I/O threshold exceeded,WARNING
+Unusual CPU usage: 70%,WARNING
+Repeated login failure from 192.168.0.1,WARNING
+App com.security.monitor started,SAFE
+Background task finished,SAFE
+Repeated login failure from 203.0.113.12,WARNING
+System update installed,SAFE
+System update installed,SAFE
+Device USB001 disconnected unexpectedly,WARNING
+Boot completed successfully,SAFE
+Boot completed successfully,SAFE
