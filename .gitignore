@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+venv/
+*.zip
+*.tar.gz
+*.tmp
+*.bak
+checkpoints/
+
