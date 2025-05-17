@@ -6,5 +6,6 @@ venv/
 *.tar.gz
 *.tmp
 *.bak
+*.csv
 checkpoints/
 
